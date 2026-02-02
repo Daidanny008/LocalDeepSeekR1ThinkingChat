@@ -2,6 +2,8 @@
 
 This project uses deepseek-r1 via Ollama and Streamlit to locally host a AI thinking-mode chat interface.
 
+spinoff project of https://github.com/patchy631/ai-engineering-hub/blob/main/deepseek-thinking-ui/README.md?plain=1 
+
 ## Installation and setup
 
 **Install Dependencies**:
@@ -19,8 +21,6 @@ This project uses deepseek-r1 via Ollama and Streamlit to locally host a AI thin
    ```
 
 **Run the app**:
-
-   Run the streamlit app as follows:
    ```bash
    # in one terminal
    ollama serve
